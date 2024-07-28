@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\GitHub\\Scary Partner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|A:\\GitHub\\Scary Partner\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|a:\\github\\scary partner\\assets\\manager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|solutionrelative:assets\\manager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|A:\\GitHub\\Scary Partner\\assets\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|solutionrelative:assets\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|A:\\GitHub\\Scary Partner\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|A:\\GitHub\\Scary Partner\\assets\\snaketrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|solutionrelative:assets\\snaketrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|A:\\GitHub\\Scary Partner\\assets\\endtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FFA298-C2F9-6FA3-C30D-D4585F12F383}|Assembly-CSharp.csproj|solutionrelative:assets\\endtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager2.cs",
+              "DocumentMoniker": "A:\\GitHub\\Scary Partner\\Assets\\Manager2.cs",
+              "RelativeDocumentMoniker": "Assets\\Manager2.cs",
+              "ToolTip": "A:\\GitHub\\Scary Partner\\Assets\\Manager2.cs",
+              "RelativeToolTip": "Assets\\Manager2.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAABBwCkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:02:32.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EndTrigger.cs",
+              "DocumentMoniker": "A:\\GitHub\\Scary Partner\\Assets\\EndTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\EndTrigger.cs",
+              "ToolTip": "A:\\GitHub\\Scary Partner\\Assets\\EndTrigger.cs",
+              "RelativeToolTip": "Assets\\EndTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:25:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SnakeTrigger.cs",
+              "DocumentMoniker": "A:\\GitHub\\Scary Partner\\Assets\\SnakeTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\SnakeTrigger.cs",
+              "ToolTip": "A:\\GitHub\\Scary Partner\\Assets\\SnakeTrigger.cs",
+              "RelativeToolTip": "Assets\\SnakeTrigger.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T22:04:02.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "A:\\GitHub\\Scary Partner\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "A:\\GitHub\\Scary Partner\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADgv2wAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:35:09.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "A:\\GitHub\\Scary Partner\\Assets\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Manager.cs",
+              "ToolTip": "A:\\GitHub\\Scary Partner\\Assets\\Manager.cs",
+              "RelativeToolTip": "Assets\\Manager.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAABBwCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:30:05.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "A:\\GitHub\\Scary Partner\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "A:\\GitHub\\Scary Partner\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAACUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:34:04.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
